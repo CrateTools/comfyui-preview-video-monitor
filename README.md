@@ -8,3 +8,17 @@
 
 #
 
+☕︎ Support: A small donation helps! ☕︎ https://buymeacoffee.com/nicolaslandajo
+
+⭐ Star this repository — it’s quick, free, and helps others discover the project
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+
+🪲 Report any bugs you come across
+
+📄 Contribute improvements
+
+#
+
+PLEASE READ THE LICENSE FILE
+
