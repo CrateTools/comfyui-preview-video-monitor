@@ -1,8 +1,10 @@
-# Preview Video Monitor is a ComfiUI custom node IN DEVELOPMENT. Includes a multi-monitor feature that lets you select one of up to six secondary monitors to display generated videos in fullscreen!
+# PreviewVideoMonitorPro is a ComfiUI custom node for video preview on multiple monitors. Lets you select one of up to six secondary monitors to display generated videos in fullscreen!
 
 <img width="999" height="1188" alt="poster in development - crop" src="https://github.com/user-attachments/assets/3ecaf782-8f1f-41c6-a439-f4beab60f067" />
 
-#
+<img width="1313" height="711" alt="pvmp1" src="https://github.com/user-attachments/assets/50d5d38b-7416-4ba4-b44d-37372eba508a" />
 
-<img width="489" height="561" alt="3" src="https://github.com/user-attachments/assets/a83f8c21-f71f-4af2-8ba7-112a3ca52cdf" />
+<img width="1088" height="559" alt="pvmp2" src="https://github.com/user-attachments/assets/0f21c302-c20f-4358-830e-05793f474410" />
+
+#
 
