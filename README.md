@@ -42,6 +42,15 @@ This update delivers a **massive performance leap** for video playback in ComfyU
   ```bash
   set PREVIEWVM_MAX_CACHE_BYTES=4294967296
 
+  | Old Version         | v2.0 Improvement       |
+| ------------------- | ---------------------- |
+| Disk-based decoding | Full RAM caching       |
+| 32-bit float frames | 8-bit RGB optimized    |
+| Per-frame resizing  | Pre-scaled cache       |
+| 8–10 FPS playback   | Smooth 24–60 FPS       |
+| No cache reuse      | Smart persistent cache |
+
+
 #
 
 ☕︎ Support: A small donation helps! ☕︎ https://buymeacoffee.com/nicolaslandajo
