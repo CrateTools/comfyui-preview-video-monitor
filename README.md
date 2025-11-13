@@ -31,3 +31,7 @@ Much better use of GPU too.
 
 PLEASE READ THE LICENSE FILE
 
+#
+
+Please not that at the moment this tool developed and tested over ComfyUI Desktop only, not Portable one. But it should work the same if you want to try it. I will go over testing on Portable soom.
+
