@@ -1,46 +1,27 @@
 # PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple monitors. Lets you select one of up to six secondary monitors to display generated videos in fullscreen!
 
-<img width="1921" height="1049" alt="pvmp3" src="https://github.com/user-attachments/assets/97fea8ac-985b-4e15-aa97-1d189942771d" />
+<img width="1848" height="925" alt="3 2interface_01" src="https://github.com/user-attachments/assets/85badbaa-de59-4eb8-a7ad-d4c264aae90c" />
 
-<img width="1088" height="559" alt="pvmp2" src="https://github.com/user-attachments/assets/0f21c302-c20f-4358-830e-05793f474410" />
+<img width="1851" height="929" alt="3 2interface_02" src="https://github.com/user-attachments/assets/adf23364-5856-4b66-86cd-1ec1290459b1" />
 
 #
 
 📰 NEWS📰
 
+🖥️ Preview Video Monitor Pro — Version 3.2 is out!!
+
+🚀 Major UI & Control Upgrade — Precision FPS, Cleaner Workflow, Zero JS
+
+This release takes the rock-solid playback engine introduced in v2.0 and the refinements of v3.0, and pushes the experience even further with better control, cleaner UI, and a fully simplified codebase.
+
+v3.2 focuses on speed, simplicity, and precision — everything you want during fast creative iteration.
+
+
+#
+
 🖥️ Preview Video Monitor Pro 🖥️ — Version 2.0 is out!!
 
-🚀 Major Update — Real-Time RAM-Cached Playback
-
-This update delivers a **massive performance leap** for video playback in ComfyUI, transforming the node into a fully RAM-accelerated, 8-bit optimized video preview system.
-
-✨ Highlights
-
-⚡ Full RAM Caching
-- Videos are now decoded once and fully cached in memory as 8-bit RGB frames.  
-- Playback no longer depends on OpenCV’s disk streaming per frame.  
-- Re-runs of the same video reuse cache instantly.
-
-🎨 8-Bit Color Pipeline (was 32-bit Float)
-- Replaced float32 frame storage with compact 8-bit RGB surfaces.  
-- Cuts memory use by **~75%** and eliminates costly float↔uint8 conversions.  
-- No visible quality loss for MP4/H.264 previews.
-
-🧮 Pre-Scaling on Load
-- All frames are pre-scaled to the target monitor resolution and fit mode during extraction.  
-- Eliminates per-frame OpenCV resize calls during playback.
-
-🧠 Smart Global Cache
-- Added a shared global cache keyed by video path + resolution + fit mode.  
-- Cached videos persist across prompts until ComfyUI restarts.  
-- Automatically bypasses re-decoding for repeated runs.
-
-🧱 Memory-Safe Design
-- Built-in memory threshold (default: **2 GiB**) to prevent overload.  
-- Large videos gracefully fall back to streaming mode with a log warning.  
-- Limit adjustable via environment variable:
-  ```bash
-  set PREVIEWVM_MAX_CACHE_BYTES=4294967296
+Preview Video Monitor Pro v3.2 introduces a cleaner, faster, and more precise workflow by removing all JavaScript and autoprompt logic for a fully backend-driven, zero-overhead design, moving workflow_fps to the top of the UI for quicker setup, and upgrading preview_fps into a flexible STRING input that supports both “smart” auto-FPS detection and exact custom framerates like 24, 29.97, or 60. Combined with the existing RAM-cached playback engine, pre-scaled frames, 8-bit optimized surfaces, and smart global caching, v3.2 delivers a smooth, professional, animation-accurate preview experience with simpler controls, greater precision, and the same rock-solid performance as before.
 
 #
 
