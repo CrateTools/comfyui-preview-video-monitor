@@ -1,7 +1,0 @@
-1. start typing "moni...." and the Preview Video Monitor Pro node will appear. Click it.
-2. "monitor": choose your desired physical display monitor and connect a node video output to the video input. The node will autoprompt and display the video.
-3. "power_state": is for turning monitoring on and off. Also use it before changing physical monitors in the "monitor" field mentioned in the previous step.
-3. "fit mode": choose you desired format scaling mode. "None" mode will display actual size of the image with no filtering scaling artifacts.
-4. "playback_mode": are the basic playback controls
-5. "fps mode": smart is recommended
-6. "target_resolution": is the physical resolution hardware of your computer monitor and gpu settings.
