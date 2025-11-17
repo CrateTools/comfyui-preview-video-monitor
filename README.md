@@ -36,25 +36,13 @@ Previews feel snappy and lightweight
 Timing accuracy is better than ever
 
 
-📁 About the cache and __pycache__ Folders
-
-Preview Video Monitor Pro automatically creates two folders inside "custom_nodes/PreviewVideoMonitorPro/"
-
-These folders are:
+📁 Preview Video Monitor Pro automatically creates two folders inside /custom_nodes/PreviewVideoMonitorPro/
 
 /cache/: stores temporary optimized video files and pre-scaled frames
 
 /__pycache__/: standard Python bytecode compiled at runtime
 
 Both folders are safe, automatic, and self-maintaining.
-
-✔ You don’t need to do anything. The node manages these folders entirely on its own.
-
-✔ They won't grow uncontrollably. Cached data is small (temporary MP4s + metadata). Old files are automatically reused or replaced. Python bytecode in __pycache__ is tiny.
-
-✔ It’s safe to delete them. If you ever remove them manually, the node will simply recreate them on the next run.
-
-✔ They do NOT affect performance negatively. They're designed to improve startup speed and reduce redundant processing.
 
 #
 
@@ -74,5 +62,5 @@ PLEASE READ THE LICENSE FILE
 
 #
 
-Please note that at the moment this tool is developed and tested over ComfyUI Desktop only, not Portable one. But it should work fine if you want to try it. I will go over testing on Portable soon.
+Please note that at the moment this tool is developed and tested over Windows 10 and ComfyUI Desktop only, not Portable one. But it should work fine if you want to try it. I will go over testing on Portable soon.
 
