@@ -1,0 +1,28 @@
+TIP:
+Depending on you level of knowledge of your own comfyui local intall and pipeline,
+maybe try step 2 first, cause maybe you already meet all the requirements,
+so after going over step 2 open comfy and try the node, if all works fine skip step 1,
+if not close comfy and go over step 1, then run comfy again.
+
+
+Step 1. Node Dependencies
+
+-(follow this step with caution, always backup your ComfyUI python environment before installing any new package)-
+
+**Required packages for this node:**
+- `pygame` - Display window and rendering
+- `screeninfo` - Multi-monitor support  
+- `opencv-python` - Video processing *(Video Monitor only)*
+- `pillow` - Image format support *(Video Monitor only)*
+
+**Installation command:**
+```cmd
+pip install pygame screeninfo opencv-python pillow
+
+Step 2. Remove old PreviewVideoMonitorPro from your "custom_nodes" folder if exists.
+
+Step 3. Install in custom_nodes
+
+Drop "PreviewVideoMonitorPro" folder in "custom_nodes" comfyui´s folder
+
+THAT´S IT
