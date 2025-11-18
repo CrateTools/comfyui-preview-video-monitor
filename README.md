@@ -34,7 +34,7 @@ Exact custom values like 24, 29.97, 48, or 60 when you need exact animation timi
 
 ⚡ Smoother Playback, Same Rock-Solid Performance
 
-v3.2 builds on the fast, stable playback you already know:
+v3.3 builds on the fast, stable playback you already know:
 
 Frames load instantly thanks to optimized caching
 
