@@ -1,5 +1,32 @@
 # PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple monitors. Lets you select one of up to six secondary monitors to display generated videos in fullscreen! Supports video and image-batch.
 
+#
+
+🔥NEWS🔥 V5.0 -  Groundbreaking ComfyUI Preview Experience soon!
+
+<img width="1920" height="1080" alt="monitor V5" src="https://github.com/user-attachments/assets/64d729a6-4fc6-439a-8cda-4191d9509d59" />
+
+<img width="1920" height="982" alt="node V5" src="https://github.com/user-attachments/assets/6c297d19-d90d-4bef-a8b6-3d8965062053" />
+
+<img width="615" height="105" alt="buttons V5" src="https://github.com/user-attachments/assets/1ec58dac-7d53-4a24-93e6-f43e2f16531e" />
+
+<img width="619" height="101" alt="counter V5" src="https://github.com/user-attachments/assets/4cee683c-57b3-4809-a2b4-12bf996c9e48" />
+
+
+🎬 Perfect Playback Control - Intuitive timeline scrubbing, frame-by-frame stepping, and multiple playback modes (Forward, Backward, Ping-Pong right in the viewer)
+
+🖱️ Smart Interactive Controls - Zoom with mouse wheel, pan with right-click drag, and instant fit modes (Fit, Width, Height, 1:1)
+
+🎯 Enhanced Visual Experience - real-time frame counter with custom numbering, resolution display, and multi-monitor support
+
+⚡ Performance Optimized - Smart caching system, dynamic resolution handling, and buttery-smooth playback at your chosen FPS
+
+🔄 Universal Compatibility - Works seamlessly with videos, image sequences, tensors, and all major ComfyUI video formats
+
+From the simple previews of v3.3 to the professional-grade video workstation of v5.0 - Experience video previewing like never before! 🎥✨
+
+#
+
 <img width="2048" height="700" alt="Banner_github" src="https://github.com/user-attachments/assets/d8819d6a-d98a-4370-9d45-0bf1e6ddd8fb" />
 
 <img width="1848" height="925" alt="3 2interface_01" src="https://github.com/user-attachments/assets/85badbaa-de59-4eb8-a7ad-d4c264aae90c" />
