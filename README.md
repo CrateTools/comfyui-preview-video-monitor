@@ -18,7 +18,7 @@
 
 🖱️ Smart Interactive Controls - Zoom with mouse wheel, pan with right-click drag, and instant fit modes (Fit, Width, Height, 1:1)
 
-🧠 Your generation runs can be stored and re-visited instantly without delay and re-runs or re-prompting. You can store as many generations as you like in your session, and display them instantly with a click.
+🧠 Your generations can be stored during your creative process and re-visited instantly. You can store as many as you need in your session and cycle through versions.
 
 🎯 Enhanced Visual Experience - real-time frame counter with custom numbering, resolution display, and multi-monitor support
 
