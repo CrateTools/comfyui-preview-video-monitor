@@ -25,19 +25,15 @@ Lets you select one of up to six secondary monitors to display generations insta
 <img width="1920" height="1080" alt="interface_03" src="https://github.com/user-attachments/assets/9542b15c-a87d-4efb-9067-b80453da969e" />
 
 #
-
 Generations cycling selection menu - Display your versions instantly from the cache to the monitor
 
 #
-
 <img width="1412" height="402" alt="interface_03 - closeup2" src="https://github.com/user-attachments/assets/1ea4ac8a-64c8-41b3-bcfc-eddb94670aab" />
 
 #
-
 <img width="1921" height="971" alt="interface_02" src="https://github.com/user-attachments/assets/c3b7d8a5-b22f-446c-92e7-3066447030e9" />
 
 #
-
 🎬 Professional Playback Control Suite
 
 Intuitive Timeline Scrubbing - Click and drag anywhere above the timeline for precise frame control
