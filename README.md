@@ -114,7 +114,7 @@ ENTER = Toggle generations menu
 
 #
 
-# PreviewVideoMonitor v3.3 (current version, no interactive monitor/viewer)
+# PreviewVideoMonitor v3.3 (current version, no interactive monitor/viewer, soon to be deprecated)
 
 #
 
