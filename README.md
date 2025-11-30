@@ -133,8 +133,12 @@ Q = Close viewer
 ENTER = Toggle generations menu
 
 #
+<div align="center">
+  
+# PreviewVideoMonitor V3.3
+# (current version, no interactive monitor controls, soon to be deprecated)
 
-# PreviewVideoMonitor v3.3 (current version, no interactive monitor/viewer, soon to be deprecated)
+</div>
 
 <img width="1848" height="925" alt="3 2interface_01" src="https://github.com/user-attachments/assets/85badbaa-de59-4eb8-a7ad-d4c264aae90c" />
 
