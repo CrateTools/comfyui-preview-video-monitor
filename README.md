@@ -8,25 +8,91 @@ PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple mo
 
 # 🔥NEWS🔥 V5.0 -  New preview experience coming soon!
 
-<img width="1920" height="1080" alt="pvm_5 2_02" src="https://github.com/user-attachments/assets/a19db8e6-fa99-4749-97bd-f7bccb262a25" />
+<img width="1920" height="1080" alt="interface_03" src="https://github.com/user-attachments/assets/9542b15c-a87d-4efb-9067-b80453da969e" />
 
-<img width="1919" height="984" alt="pvm_5 2_01" src="https://github.com/user-attachments/assets/5383fdac-e9c9-433c-93d3-c62256f293f2" />
+<img width="1921" height="971" alt="interface_02" src="https://github.com/user-attachments/assets/c3b7d8a5-b22f-446c-92e7-3066447030e9" />
 
 #
 
-🎬 Perfect Playback Control - Intuitive timeline scrubbing, frame-by-frame stepping and play/stop with keyboard arrows and spacebar, and multiple playback modes (Forward, Backward, Ping-Pong right in the viewer!!!)
+🎬 Professional Playback Control Suite
 
-🎮 CONTROLS HAVE MOVED! - From Static Node Settings to Dynamic Interactive Monitor - Click, Drag, Zoom & Control Everything in Real-Time!
+Intuitive Timeline Scrubbing - Click and drag anywhere above the timeline for precise frame control
 
-🖱️ Smart Interactive Controls - Zoom with mouse wheel, pan with right-click drag, and instant fit modes (Fit, Width, Height, 1:1)
+Frame-Perfect Navigation - Step through frames with keyboard arrows (← →)
 
-🧠 Your generations can be stored during your creative process and re-visited instantly. You can store as many as you need in your session and cycle through versions.
+Smart Playback Modes - Forward, Backward, and Ping-Pong playback with single-click switching
 
-🎯 Enhanced Visual Experience - real-time frame counter with custom numbering, resolution display, and multi-monitor support
+Instant Play/Pause - Spacebar toggles playback instantly, right from your keyboard home row
 
-⚡ Performance Optimized - Smart caching system, dynamic resolution handling, playback at your chosen FPS
+🖥️ Immersive Viewing Experience
 
-🔄 Universal Compatibility - Works seamlessly with videos, image sequences, tensors, and all major ComfyUI video formats
+One-Click Fullscreen - Press 5 to enter true fullscreen mode, ESC to exit
+
+Smart Fit Modes - Instant switching between Fit (2), Width (3), Height (4), and 1:1 (1)
+
+Keyboard-Optimized Shortcuts - All controls under your left hand without looking at the keyboard
+
+Multi-Monitor Ready - Display on any monitor with automatic resolution detection
+
+🎯 Professional In/Out Marking System
+
+Set Range Instantly - Press I for IN point, O for OUT point at current frame
+
+Visual Timeline Feedback - Blue highlighted areas with red marker lines show your selection
+
+Smart Playback Bounds - All playback modes respect your marked range automatically
+
+Quick Reset - Press P to instantly reset to full media length
+
+🎮 Total Interactive Control
+
+Dynamic Real-Time Interface - All controls moved from static nodes to interactive monitor
+
+Intuitive Zoom & Pan - Mouse wheel zooms anchored to cursor, right-click drag pans
+
+Instant Fit Modes - Click buttons or use number keys for instant view adjustments
+
+Live Visual Feedback - Buttons light up with color-coded active states
+
+🧠 Smart Generation Management
+
+Session-Based Storage - Store unlimited generations during your creative workflow
+
+Instant Version Cycling - Dropup menu with keyboard navigation (↑ ↓ ENTER) through all versions
+
+Visual Generation Browser - Hover and click to load any previous generation instantly
+
+Automatic Cleanup - Configurable limits with smart oldest-first removal
+
+⚡ Performance Engine
+
+GPU-Accelerated Processing - Automatic CUDA detection with OpenCV & PyTorch backend fallbacks
+
+Smart Caching System - Dynamic frame caching with memory management
+
+Real-Time Resolution Handling - Automatic scaling with maintained aspect ratios
+
+Custom FPS Control - Playback at your exact desired framerate
+
+🎨 Enhanced Visual Experience
+
+Live Frame Counter - Real-time display with custom starting frame numbers
+
+Resolution Overlay - Always-visible original media resolution
+
+Color-Coded Interface - Intuitive button states with meaningful color schemes
+
+Professional Timeline - Extended scrubbing area for easy frame selection
+
+🔄 Universal Compatibility
+
+Multi-Format Support - Videos, image sequences, tensors, and all ComfyUI video formats
+
+Flexible Input Sources - Direct files, node outputs, or generated content
+
+Seamless Workflow Integration - Works alongside your existing ComfyUI pipelines
+
+Cross-Platform Ready - Windows, Linux, macOS with automatic fallback handling
 
 #
 
