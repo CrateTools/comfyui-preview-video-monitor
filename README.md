@@ -94,6 +94,24 @@ Seamless Workflow Integration - Works alongside your existing ComfyUI pipelines
 
 Cross-Platform Ready - Windows, Linux, macOS with automatic fallback handling
 
+🎮 Quick Start Controls:
+
+Space = Play/Pause
+
+← → = Frame stepping
+
+I/O = Set IN/OUT points
+
+P = Reset to full length
+
+1-5 = Fit modes (1:1, Fit, Width, Height, Fullscreen)
+
+ESC = Exit fullscreen
+
+Q = Close viewer
+
+ENTER = Toggle generations menu
+
 #
 
 # PreviewVideoMonitor v3.3 (current version, no interactive monitor/viewer)
