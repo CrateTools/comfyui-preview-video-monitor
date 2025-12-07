@@ -56,7 +56,7 @@ Instant Play/Pause - Spacebar toggles playback instantly, right from your keyboa
 
 One-Click Fullscreen - Press 5 to enter true fullscreen mode, ESC or 5 again to exit
 
-Smart Fit Modes - Instant switching using numbers Fit (2), Width (3), Height (4), and 1:1 (1). Press again and you retun to Fit
+Smart Fit Modes - Instant switching using numbers 1:1 (1), Fit (2), Width (3), Height (4), and Fullscreen (5). Press again and you retun to Fit
 
 Keyboard-Optimized Shortcuts - All controls under your left hand without looking at the keyboard
 
