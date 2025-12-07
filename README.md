@@ -27,7 +27,6 @@ Lets you select one of up to six secondary monitors to display generations insta
 #
 <img width="1920" height="1080" alt="002" src="https://github.com/user-attachments/assets/00be4ec5-ab4b-4fea-981a-234ebe9bb10d" />
 
-#
 Generations cycling selection menu - Display your versions instantly from the cache to the monitor. Rename them as you go.
 
 #
