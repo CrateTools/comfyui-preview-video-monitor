@@ -209,9 +209,10 @@ Both folders are safe, automatic, and self-maintaining.
 #
 
 ☕︎ HEY!!!👋 Support!!: Just $1 can make a real difference. Your support helps me continue pouring countless hours into this project I love! ☕︎
+
 ☕︎ https://buymeacoffee.com/nicolaslandajo ☕︎
 
-⭐ Star this repository — it’s quick, free, and helps others discover the project
+⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
 
 🌍 Share this tool with anyone you think would enjoy it! 🌍
 
