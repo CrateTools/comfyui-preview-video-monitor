@@ -45,8 +45,8 @@ Clear your cache confirmation button. Explore the dir.
 <img width="1920" height="1080" alt="006" src="https://github.com/user-attachments/assets/1c4079cb-8fec-477a-b4a1-0acd8cda5d0d" />
 
 Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with your comfyui workflow injected in it.
-Share the png or open it later in comfy and continue working from there.
-Explore the dir and grab your history work.
+Share the PNG or open it later in comfy and continue working from there. The Snapshots and Generations work orchestrated together maintaining naming sync.
+Explore the dir and grab your history work and continue creating.
 
 #
 
