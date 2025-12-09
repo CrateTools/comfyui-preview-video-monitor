@@ -37,7 +37,20 @@ Generations cycling menu - Display your creative history instantly to the monito
 Physical Display Gamut Video Selection
 
 #
-<img width="1921" height="971" alt="interface_02" src="https://github.com/user-attachments/assets/c3b7d8a5-b22f-446c-92e7-3066447030e9" />
+<img width="1920" height="1080" alt="005" src="https://github.com/user-attachments/assets/fec4bbfd-ab30-4471-9aba-4a036a2030d7" />
+
+Clear your cache comfirmation button. Explore the dir.
+
+#
+<img width="1920" height="1080" alt="006" src="https://github.com/user-attachments/assets/1c4079cb-8fec-477a-b4a1-0acd8cda5d0d" />
+
+Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with your comfyui workflow injected in it.
+Share the png or open it later in comfy and continue working from there.
+Explore the dir and grab your history work.
+
+#
+
+<img width="1921" height="977" alt="007" src="https://github.com/user-attachments/assets/872f7cd5-36fa-4974-b751-417ef567b8b5" />
 
 The Node
 
