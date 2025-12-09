@@ -104,9 +104,12 @@ Unlimited Version History - Store every iteration of your work without worrying 
 Rename any Generation instantly to keep your creative sessions organized and highlight the moments that inspired you!
 
 Instant Time Travel - Dropup menu with keyboard navigation (↑ ↓ ENTER) to revisit any point in your creative journey
-note: future versions might save a json or png from the video file per generation in case you need to recostruct a previous look
-
 Visual Generation Gallery - Hover and click to instantly resurrect any previous creation
+
+Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with
+your comfyui workflow injected in it. Share the PNG or open it later in comfy and continue working from there.
+The Snapshots and Generations work orchestrated together maintaining naming sync.
+Explore the dir and grab your history work and continue creating.
 
 Smart Memory Management - Configurable archive limits with intelligent oldest-first curation
 
