@@ -55,6 +55,9 @@ Explore the dir and grab your history work and continue creating.
 The Node
 
 #
+
+- 🏭 Currently working on the wipe compare A/B module orchestrated with the Generations dropup menu. Also working on gain, gamma and saturation sliders.
+
 -🎬 Professional Playback Control Suite
 
 Intuitive Timeline Scrubbing - Click and drag anywhere above the timeline for precise frame control
