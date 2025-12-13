@@ -65,7 +65,7 @@ The Node
 
 #
 
-- 🏭 Currently working on gain, gamma and saturation sliders | Zebra clipping | Finishing registration system to avoid duplicated generations across session on "first run prompts" |
+- 🏭 Currently working on gain, gamma and saturation sliders | Zebra clipping | Finishing registration system to avoid duplicated generations across sessions on "first run prompts", file size compare/time |
 
 - Long term development for 2026 for version V6 is a 3D system in the monitor to visualize 3D geometry and gaussian splats
 
