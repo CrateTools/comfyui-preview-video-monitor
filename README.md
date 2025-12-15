@@ -67,7 +67,7 @@ The Node
 
 - 🏭 Currently working on
 
-Gain, gamma and saturation sliders, zebra clipping, finishing registration system to avoid duplicated generations across sessions on "first run prompts", file size compare/time.
+Gain, gamma and saturation sliders, zebra clipping, finishing registration system to avoid duplicated generations across sessions on "first runs prompt", file size compare/time.
 
 Separating Generations (more volatile cache) from Snapshots (a backup of the work look dev) on different folders and systems of deletion.
 
