@@ -1,9 +1,10 @@
-<img width="1340" height="619" alt="ComfyMonitor5 - banner" src="https://github.com/user-attachments/assets/882cb77f-23d0-4a18-a506-171e7359e121" />
+<img width="1543" height="595" alt="pvmp" src="https://github.com/user-attachments/assets/f1117b5a-9688-4714-8a0b-a8af15919acc" />
+
 
 
 <div align="center">
 
-# ComfyMonitor 🖥️🖥️ Multimonitor Fullscreen!
+# PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen!
 
 ComfyMonitor is a ComfyUI custom node for video preview on multiple monitors.
 
