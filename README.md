@@ -206,7 +206,7 @@ Key Points:
 
 Always use Save nodes (e.g., Save Image, Save Video, etc.) to permanently store your final work in your regular working directory or custom pipelines.
 ComfyMonitor should currently be treated as a volatile preview system — ideal for creative sessions and quick iterations, but not for long-term storage.
-While PVMP can save files to disk, its internal session data and cached files are stored inside its own folder:
+While ComfyMonitor can save files to disk, its internal session data and cached files are stored inside its own folder:
 custom_nodes/ComfyMonitor/
 This internal storage may be cleared or changed between sessions or updates, so do not rely on it for keeping your work safe.
 
