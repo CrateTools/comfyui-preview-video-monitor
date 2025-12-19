@@ -68,6 +68,8 @@ The Node
 
 - 🏭 Currently working on
 
+- In addition to the already existing wipe compare, "side by side" will be added
+
 - 🕰️ Long term development for 2026 for version V6 is a 3D system in the monitor to visualize 3D geometry and gaussian splats
 
 #
