@@ -1,12 +1,10 @@
 <img width="1543" height="595" alt="pvmp" src="https://github.com/user-attachments/assets/f1117b5a-9688-4714-8a0b-a8af15919acc" />
 
-
-
 <div align="center">
 
 # PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen!
 
-ComfyMonitor is a ComfyUI custom node for video preview on multiple monitors.
+PreviewVideoMonitor is a ComfyUI custom node for video preview on multiple monitors.
 
 Lets you select one of up to six secondary monitors to display generations instantly for both video and image-batch.
 
@@ -49,7 +47,10 @@ ClearCache. "Deletion confirmation" and "Explore" buttons.
 
 Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with your comfyui workflow injected in it.
 Share the PNG or open it later in comfy and continue working from there. The Snapshots and Generations work orchestrated together maintaining naming sync.
-Explore the dir and grab your history work and continue creating.
+Explore the dir and grab your history work and continue creating. PreviewVideoMonitor saves snapshos data inside its own default folder
+custom_nodes/PreviewVideoMonitorPro/, but you can change this to your own custom directory directly from the node, super easy, and giving you full control over where Snaps are kept.
+
+#
 
 #
 <img width="1920" height="1080" alt="009" src="https://github.com/user-attachments/assets/45f861d6-9a68-40f2-8753-0b1d376ca2d5" />
@@ -202,18 +203,14 @@ ENTER = Toggle generations menu
 
 Important Notes
 
-ComfyMonitor is an advanced video/image viewer with powerful caching and workflow-saving features. However, it is not designed to be your primary file management system.
+PreviewVideoMonitor is an advanced video/image viewer with powerful caching and workflow-saving features. However, it is not designed to be your primary file management system.
 Key Points:
 
 Always use Save nodes (e.g., Save Image, Save Video, etc.) to permanently store your final work in your regular working directory or custom pipelines.
-ComfyMonitor should currently be treated as a volatile preview system — ideal for creative sessions and quick iterations, but not for long-term storage.
-While ComfyMonitor can save files to disk, its internal session data and cached files are stored inside its own folder:
-custom_nodes/ComfyMonitor/
-This internal storage may be cleared or changed between sessions or updates, so do not rely on it for keeping your work safe.
-
-Future Improvement
-In upcoming versions, you will be able to set a custom storage location for all session-generated data, giving you full control over where files are kept.
-Bottom line: Use ComfyMonitor as a Monitoring/Viewer system for fast, powerful previews and creative experimentation — but always save your important work properly using dedicated Save nodes.
+PreviewVideoMonitor should currently be treated as a volatile preview system — ideal for creative sessions and quick iterations, but not for long-term storage.
+PreviewVideoMonitor can save files to disk, its internal session data and cached files are stored inside its own default folder
+custom_nodes/PreviewVideoMonitorPro/, but you can change this to your own custom working directory directly from the node, super easy, and giving you full control over where files are kept.
+This internal storage may be cleared by users (or accidentally by you) or changed between sessions or updates, so do not rely on it for keeping your work 100% safe.
 
 #
 <div align="center">
