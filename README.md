@@ -50,7 +50,8 @@ Deactivate wipe with W shortcut.
 #
 <img width="1920" height="1080" alt="02_gens_sbs" src="https://github.com/user-attachments/assets/2fcc8d12-db8e-4deb-bf6a-62b0fc39f10c" />
 
-SBS Compare by pushing the gen squares buttons 2 times on the target and divide the screen side by side, you can even zoom and pan while on wipe mode and mirror the sbs.
+SBS Compare by pushing the gen squares buttons 2 times on the target and divide the screen side by side.
+You can even zoom and pan while on sbs mode and mirror both sides transformations windowed on each side.
 Deactivate sbs with W shortcut.
 
 #
