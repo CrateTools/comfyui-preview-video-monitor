@@ -236,12 +236,11 @@ This internal storage may be cleared by users (or accidentally by you) or change
 #
 <div align="center">
   
-# 🖥️🖥️PreviewVideoMonitor V3.3🖥️🖥️
-# Version soon to be deprecated
-# 📼 WATCH THE TUTORIAL: https://www.youtube.com/watch?v=q6JLcth2LnY
+# 🖥️🖥️PreviewVideoMonitor V3.3🖥️🖥️ is now deprecated.
 
 </div>
 
+#
 ☕︎ HEY!!!👋 Please support, just $1 can make a real difference ☕︎
 
 ☕︎ https://buymeacoffee.com/nicolaslandajo ☕︎
