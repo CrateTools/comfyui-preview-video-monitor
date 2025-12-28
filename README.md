@@ -157,10 +157,6 @@ PreviewVideoMonitor saves snapshos data inside its own default folder custom_nod
 but you can change this to your own custom directory directly from the node with one click, super easy,
 and giving you full control over where Snaps are kept.
 
-Smart Memory Management - Configurable archive limits with intelligent oldest-first curation
-
-Your Creative Legacy - Everything persists until you consciously choose to clear the cache
-
 # ⚡ Performance Engine
 
 GPU-Accelerated Processing - Automatic CUDA detection with OpenCV & PyTorch backend fallbacks
@@ -207,19 +203,17 @@ Cross-Platform Ready - Windows, Linux, macOS with automatic fallback handling
 
 Space = Play/Pause
 
-← → = Frame stepping
+← → = Frame stepping, keep hold and scrubb at 30fps fast
 
-I/O = Set IN/OUT points
-
-P = Reset to full length
+I/O = Set IN/OUT points  P = Reset in out to full length
 
 1-5 = Fit modes (1:1, Fit, Width, Height, Fullscreen)
 
 ESC = Exit fullscreen
 
-Q = Close viewer
+Shift+q = Close entire monitor interface
 
-ENTER = Toggle generations menu
+ENTER = Toggle generations menu and also once in it triggers change generation name
 
 📺 Cycling the RGB channels: Use "r" "g" and "b" shortcuts to see the red green and blue channels in the monitor
 
