@@ -61,8 +61,8 @@ ClearCache. "Deletion confirmation" and "Explore" buttons.
 #
 <img width="1920" height="1080" alt="03_snap" src="https://github.com/user-attachments/assets/754f377c-a58a-41a1-ac27-03e153129903" />
 
-Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with your comfyui workflow injected in it.
-Share the PNG or open it later in comfy and continue working from there. The Snapshots and Generations work orchestrated together maintaining naming sync.
+Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a webp file with your comfyui workflow injected in it.
+Share the webp or open it later in comfy and continue working from there. The Snapshots and Generations work orchestrated together maintaining naming sync.
 Explore the dir and grab your history work and continue creating.
 
 #
