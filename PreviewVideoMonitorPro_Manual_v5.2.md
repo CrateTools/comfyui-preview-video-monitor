@@ -1,4 +1,4 @@
-# PreviewVideoMonitorPro User Manual
+# CrateTools PreviewVideoMonitorPro User Manual
 **Version 5.2 | Professional Monitor and Video Inspection for ComfyUI**
 
 ---
@@ -726,6 +726,6 @@ We're committed to making video review in ComfyUI fast, intuitive, and professio
 
 ---
 
-*Manual Version 5.2 | January 2025 | Nicolas Landajo*
+*Manual Version 5.2 | January 2025 | CrateTools - Nicolas Landajo*
 
 end of line
