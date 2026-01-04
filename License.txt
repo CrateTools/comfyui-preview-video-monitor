@@ -1,5 +1,6 @@
 MIT License with Commercial Use Clause
-Copyright (c) 2025 Nicolas Landajo — PreviewVideoMonitorPro
+Copyright (c) 2025 CrateTools — PreviewVideoMonitorPro
+Copyright (c) 2025 Nicolas Landajo - tool vision designer — PreviewVideoMonitorPro
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -65,8 +66,8 @@ If you modify this software or create derivative works, you must include
 attribution to the original repository in your documentation, credits, or
 attribution materials. Example attribution:
 
-Based on PreviewVideoMonitorPro by Nicolas Landajo
-https://github.com/NicLandajo/comfyui-preview-video-monitor
+Based on PreviewVideoMonitorPro by CrateTools and Nicolas Landajo
+https://github.com/CrateTools/comfyui-preview-video-monitor
 
 
 Summary
@@ -89,3 +90,4 @@ You cannot:
 Hold the author liable for any damages ❌
 Remove the original copyright notice ❌
 Claim you wrote the original software ❌
+
