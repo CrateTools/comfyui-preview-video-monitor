@@ -238,9 +238,9 @@ Middle mouse wheel click or Reset button in the main bar
 | Key | Action |
 |-----|--------|
 | `1` | Toggle 1:1 |
-| `2` | Width |
-| `3` | Height |
-| `4` | Fit |
+| `2` | Fit |
+| `3` | Width |
+| `4` | Height |
 | `5` | Toggle Fullscreen |
 | Mouse Wheel | Zoom in/out |
 | Right-Click + Drag | Pan (when zoomed) |
