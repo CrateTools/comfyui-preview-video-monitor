@@ -250,7 +250,9 @@ If you think you would like to contribute to improving the tool, let us know!
 # Previous versions
 
 V3.3 and V3.2 (deprecated) This is the first release of PVM with user interactive interface and on-screen controls.
+
 V2.0 (deprecated) Major update fixing smooth playback problems and the core engine rendering the frames.
+
 V1.0 (deprecated) This was the main bridge comfyui-pygame tool with basic functions to send the media to a secondary physical screen.
 
 #
