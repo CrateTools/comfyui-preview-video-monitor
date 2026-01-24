@@ -19,7 +19,7 @@ Includes professional Vision tools for technical inspection and preview color co
 
 ### See the demo: https://www.youtube.com/watch?v=1574Y_pF5Ec
 
-### ⏳ Coming soon to ComfyUI Manager - one-click install!
+### ComfyUI Manager - one-click install!
 
 </div>
 
