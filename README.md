@@ -273,5 +273,6 @@ Contribute improvements
 PLEASE READ THE LICENSE FILE
 
 #
-Please note that at the moment this tool is developed and tested over Windows 10 and ComfyUI Desktop only, not Portable one. But it should work fine if you want to try it. I will go over testing on Portable soon.
+Please note that at the moment this tool is developed and tested over Windows 10
+We can confirm the tool works well after installing it from ComfyUI Manager on both ComfyUI Desktop and Portable with automatic dependecies intallation
 
