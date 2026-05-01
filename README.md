@@ -2,9 +2,7 @@
 
 # Preview Video Monitor
 
-A ComfyUI custom node for video preview on multiple physical monitors
-
-Preview videos, image sequences, and images with interactive on-screen controls, snapshots, and generation tracking
+Preview on multiple physical monitors for videos, image sequences, and images. Interactive on-screen controls, snapshots, and generation tracking
 
 #
 
