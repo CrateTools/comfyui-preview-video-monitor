@@ -1,5 +1,3 @@
-<img width="1543" height="595" alt="pvmp" src="https://github.com/user-attachments/assets/f1117b5a-9688-4714-8a0b-a8af15919acc" />
-
 <div align="center">
 
 # PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen
