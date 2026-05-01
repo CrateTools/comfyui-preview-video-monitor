@@ -93,7 +93,7 @@ The Node
 
 <div align="center">
 
-# 🖥️ FEATURES 🖥️
+# FEATURES
 
 </div>
 
