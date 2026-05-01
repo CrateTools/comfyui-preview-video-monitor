@@ -1,6 +1,6 @@
 <div align="center">
 
-# PreviewV Video Monitor
+# Preview Video Monitor Node
 
 A ComfyUI custom node for video preview on multiple physical monitors
 
