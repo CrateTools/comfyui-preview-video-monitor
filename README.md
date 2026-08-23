@@ -81,14 +81,6 @@ The Node
 
 #
 
-- Future versions: We´ll work on a more advance, fast and less consuming RAM and GPU engine.
-  
-  Note: If PVM consumes more resources than you are willing to accept, consider waiting for future updates.
-  
-- Long term development is a 3D system in the monitor to visualize 3D geometry and gaussian splats
-
-#
-
 <div align="center">
 
 # FEATURES
