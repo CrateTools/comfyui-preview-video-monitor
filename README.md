@@ -6,8 +6,6 @@ Preview on multiple physical monitors for videos, image sequences, and images. I
 
 #
 
-### See the demo: https://www.youtube.com/watch?v=1574Y_pF5Ec
-
 ### ComfyUI Manager - One-Click Install with automatic dependency installation
 
 </div>
