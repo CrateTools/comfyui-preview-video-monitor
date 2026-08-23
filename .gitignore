@@ -1,0 +1,12 @@
+# PVM runtime data - created automatically on the user's machine, never shipped
+runs_cache/
+snapshots/
+runs_metadata.json
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# OS clutter
+Thumbs.db
+.DS_Store
