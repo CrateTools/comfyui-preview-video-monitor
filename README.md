@@ -1,5 +1,3 @@
-<div align="center">
-
 # Preview Video Monitor
 
 Preview on multiple physical monitors for videos, image sequences, and images. Interactive on-screen controls, snapshots, and generation tracking
