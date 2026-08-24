@@ -18,8 +18,6 @@ Preview on multiple physical monitors for videos, image sequences, and images. I
 
 # FEATURES
 
-</div>
-
 # Professional Playback Control Suite
 
 Intuitive Timeline Scrubbing - Click and drag anywhere above the timeline for precise frame control
