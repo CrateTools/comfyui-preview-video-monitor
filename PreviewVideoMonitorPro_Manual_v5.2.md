@@ -1,9 +1,9 @@
 # CrateTools PreviewVideoMonitorPro User Manual
-**Version 5.2 | Professional Monitor and Video Inspection for ComfyUI**
+**Version 5.3.0 | Professional Monitor and Video Inspection for ComfyUI**
 
 ---
 
-## Welcome! 👋
+## Welcome!
 
 PreviewVideoMonitorPro transforms how you review AI-generated video and images in ComfyUI.
 
@@ -423,7 +423,7 @@ Middle mouse wheel click over a generation, confirm. The generation is removed f
 
 ---
 
-### Comparison Mode: WIPE 🟡
+### Comparison Mode: WIPE
 
 **Activating Wipe:**
 Click the small square next to any generation to compare to. It turns yellow.
@@ -447,7 +447,7 @@ Press `W` (instant exit) or click the square again.
 
 ---
 
-### Comparison Mode: SIDE-BY-SIDE 🔵
+### Comparison Mode: SIDE-BY-SIDE
 
 **Activating SBS:**
 Click the yellow square (wipe mode) again. It turns blue.
@@ -813,7 +813,7 @@ Not currently used but could be added for:
 
 **Thank you for using PreviewVideoMonitorPro!**
 
-We're committed to making video review in ComfyUI fast, intuitive, and professional. Happy creating! 🎬✨
+We're committed to making video review in ComfyUI fast, intuitive, and professional. Happy creating!
 
 ---
 
