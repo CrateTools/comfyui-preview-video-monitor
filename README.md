@@ -8,78 +8,13 @@ Preview on multiple physical monitors for videos, image sequences, and images. I
 
 ### ComfyUI Manager - One-Click Install with automatic dependency installation
 
-</div>
-
-#
-<img width="1920" height="1080" alt="00_interface" src="https://github.com/user-attachments/assets/507d313d-0eb8-41d2-95cf-52ee8c226f36" />
-
-The Monitor Interface
-
-#
-<img width="1920" height="1080" alt="05_vision_j" src="https://github.com/user-attachments/assets/148e2429-786f-4076-affa-88412c3c707f" />
-
-In/Out Marking System. Set Range Instantly - Press I for IN point, O for OUT point at current frame, reset with P; or use the "In" - "Reset" - "Out" circle buttons
-
-#
-<img width="1920" height="1080" alt="01_fps_first frame" src="https://github.com/user-attachments/assets/e36fc313-4d51-4f3b-9a87-18b8ceb79ca3" />
-
-"First Frame is" and Speed FPS dropup menu. Select what number to represent as first frame in the timeline. Type your fps speed or choose it from presets.
-
-#
-<img width="1920" height="1080" alt="02_gens" src="https://github.com/user-attachments/assets/515d7b79-547b-4582-92be-e0b05064eec8" />
-
-Generations cycling menu - Display your creative history instantly to the monitor. Rename generations as you go.
-
-#
-<img width="1920" height="1080" alt="02_gens_wipe" src="https://github.com/user-attachments/assets/1db34b60-e77b-4c9a-aad9-f8d5936985eb" />
-
-Wipe Compare by pushing the gen squares buttons 1 time on the target and divide the screen, you can even zoom and pan while on wipe mode.
-As soon as you click and hold, the yellow wipe interface devider dissapears and you see a clean wipe that you can move side to side.
-As soon as you release the left click, the yellow wipe devider interface comes back right where your pointer is.
-Deactivate wipe with W shortcut.
-
-#
-<img width="1920" height="1080" alt="02_gens_sbs" src="https://github.com/user-attachments/assets/2fcc8d12-db8e-4deb-bf6a-62b0fc39f10c" />
-
-SBS Compare by pushing the gen squares buttons 2 times on the target and divide the screen side by side.
-You can even zoom and pan while on sbs mode and mirror both sides transformations windowed on each side.
-Deactivate sbs with W shortcut.
-
-#
-<img width="1920" height="1080" alt="04_clearchache" src="https://github.com/user-attachments/assets/c2414165-c877-4639-81fe-ff8e9bd80d03" />
-
-ClearCache. "Deletion confirmation" and "Explore" buttons.
-
-#
-<img width="1920" height="1080" alt="03_snap" src="https://github.com/user-attachments/assets/754f377c-a58a-41a1-ac27-03e153129903" />
-
-Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a webp file with your comfyui workflow injected in it.
-Share the webp or open it later in comfy and continue working from there. The Snapshots and Generations work orchestrated together maintaining naming sync.
-Explore the dir and grab your history work and continue creating.
-
-#
-<img width="1920" height="1080" alt="05_vision_a" src="https://github.com/user-attachments/assets/e5b6e1f3-ba7a-4665-b1d3-45ba8e0bb977" />
-
-VISION module with all the controls you need for inspection and visualization. The first thing you see are the Gain, Gamma snd Saturation sliders; and then the buttons on the right.
-
-#
-<img width="1920" height="1080" alt="05_vision_b" src="https://github.com/user-attachments/assets/2d459b4d-eea8-408d-9802-1ad5300d063b" />
-<img width="1920" height="1080" alt="05_vision_c" src="https://github.com/user-attachments/assets/4c3bd4a7-eb31-4ec7-8e4d-78e589a970a1" />
-<img width="1920" height="1080" alt="05_vision_d" src="https://github.com/user-attachments/assets/91169895-f155-49a7-b6f5-f89522c39964" />
-<img width="1920" height="1080" alt="05_vision_e" src="https://github.com/user-attachments/assets/dac6a6ad-433a-4ba6-b21c-e326872c830f" />
-<img width="1920" height="1080" alt="05_vision_f" src="https://github.com/user-attachments/assets/0b89fc5f-706f-4a76-9ff2-669fde93dc84" />
-<img width="1920" height="1080" alt="05_vision_g" src="https://github.com/user-attachments/assets/e1a26123-2c03-4107-8fc7-3143e386e0ed" />
-<img width="1920" height="1080" alt="05_vision_h" src="https://github.com/user-attachments/assets/32699a7c-7293-4b34-b621-d927dc954111" />
-<img width="1920" height="1079" alt="05_vision_i" src="https://github.com/user-attachments/assets/d2878c3b-c155-4a44-8377-c9dcbabc5101" />
-
-#
-<img width="1921" height="931" alt="06_node" src="https://github.com/user-attachments/assets/ed4e3f00-6ae7-4689-8a61-965424c842f1" />
-
-The Node
-
 #
 
-<div align="center">
+<img width="1920" height="1080" alt="the monitor intersafe" src="https://github.com/user-attachments/assets/0f3a41cd-9852-44a8-9b5a-eb858b621d83" />
+
+
+<img width="1920" height="1053" alt="the monitor intersafe node" src="https://github.com/user-attachments/assets/02fb8cb5-0d6a-451b-b4f5-312f5b5a0fa0" />
+
 
 # FEATURES
 
