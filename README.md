@@ -134,17 +134,6 @@ ENTER = Toggle generations menu and also once in it triggers change generation n
 
 Cycling the RGB channels: Use "r" "g" and "b" shortcuts to see the red green and blue channels in the monitor
 
-# Important Notes and Storage Control
-
-PreviewVideoMonitor is an advanced video/image viewer with powerful caching and workflow-saving features. However, it is not designed to be your primary file management system.
-Key Points:
-
-Always use Save nodes (e.g., Save Image, Save Video, etc.) to permanently store your final work in your regular working directory or custom pipelines.
-PreviewVideoMonitor should currently be treated as a volatile preview system, ideal for creative sessions and quick iterations, but not for long-term storage.
-PreviewVideoMonitor can save files to disk, its internal session data and cached files are stored inside its own default folder
-custom_nodes/PreviewVideoMonitorPro/, but you can change this to your own custom working directory directly from the node, super easy, and giving you full control over where files are kept.
-This internal storage may be cleared by users (or accidentally by you) or changed between sessions or updates, so do not rely on it for keeping your work 100% safe.
-
 #
 
 ☕︎ Please support, just $1 can make a real difference ☕︎
