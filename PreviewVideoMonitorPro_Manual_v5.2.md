@@ -1,4 +1,4 @@
-# CrateTools PreviewVideoMonitorPro User Manual
+# CrateTools PreviewVideoMonitor User Manual
 **Version 5.3.0 | Professional Monitor and Video Inspection for ComfyUI**
 
 ---
