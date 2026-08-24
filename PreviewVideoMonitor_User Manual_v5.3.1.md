@@ -1,5 +1,5 @@
 # CrateTools PreviewVideoMonitor User Manual
-**Version 5.3.0 | Professional Monitor and Video Inspection for ComfyUI**
+**Version 5.3.1 | Professional Monitor and Video Inspection for ComfyUI**
 
 ---
 
@@ -741,7 +741,7 @@ zoomed_surface = scale(frame, huge_size)  # e.g., 9600×5400
 screen.blit(zoomed_surface, position)     # Processes all pixels, even clipped ones
 ```
 
-**Planned Fix (v5.3):**
+**Planned Fix (v5.4):**
 Crop visible portion BEFORE scaling:
 ```python
 visible_crop = crop(frame, visible_area)  # Only what's on screen
