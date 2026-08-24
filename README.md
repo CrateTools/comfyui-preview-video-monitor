@@ -145,14 +145,6 @@ PreviewVideoMonitor can save files to disk, its internal session data and cached
 custom_nodes/PreviewVideoMonitorPro/, but you can change this to your own custom working directory directly from the node, super easy, and giving you full control over where files are kept.
 This internal storage may be cleared by users (or accidentally by you) or changed between sessions or updates, so do not rely on it for keeping your work 100% safe.
 
-# Notes PVM and system resources
-
-The cache and display engine it´s still in it´s early design phases and is still not at peak efficiency.
-If PVM consumes more resources than you are willing to accept, consider waiting for future versions.
-
-As reference, it´s absolutly not recomended to use a GPU under 12GB VRAM, also take a "rtx nvidia 3060" as the minimum processing power base you would need.
-Is also recommended to have a CPU of at least 8 cores horse power.
-
 #
 
 ☕︎ Please support, just $1 can make a real difference ☕︎
