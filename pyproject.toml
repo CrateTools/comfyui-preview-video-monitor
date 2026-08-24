@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-preview-video-monitor"
-version = "5.3.0"
+version = "5.3.1"
 description = "Second monitor preview for video generations with interactive playback controls, color tools, generation tracking, and workflow-embedded snapshots."
 license = { text = "MIT" }
 dependencies = ["pygame", "screeninfo", "opencv-python", "pillow"]
