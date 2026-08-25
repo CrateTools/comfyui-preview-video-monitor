@@ -13,7 +13,7 @@ Preview on multiple physical monitors for videos, image sequences, and images. I
 
 # FEATURES
 
-# Professional Playback Control Suite
+# Playback Control Suite
 
 Intuitive Timeline Scrubbing - Click and drag anywhere above the timeline for precise frame control
 
@@ -23,7 +23,7 @@ Smart Playback Modes - Forward, Backward, and Ping-Pong playback with single-cli
 
 Instant Play/Pause - Spacebar toggles playback instantly, right from your keyboard home row
 
-# Immersive Viewing Experience
+# Viewing
 
 One-Click Fullscreen - Press 5 to enter true fullscreen mode, ESC or 5 again to exit
 
@@ -33,7 +33,7 @@ Keyboard-Optimized Shortcuts - All controls under your left hand without looking
 
 Multi-Monitor Ready - Display on any monitor with automatic resolution detection
 
-# Professional In/Out Marking System
+# In/Out Marking System
 
 Set Range Instantly - Press I for IN point, O for OUT point at current frame
 
@@ -43,7 +43,7 @@ Smart Playback Bounds - All playback modes respect your marked range automatical
 
 Quick Reset - Press P to instantly reset to full media length
 
-# Total Interactive Control
+# Interactive Control
 
 Dynamic Real-Time Interface - All controls moved from static nodes to interactive monitor
 
@@ -81,7 +81,7 @@ Real-Time Resolution Handling - Automatic scaling with maintained aspect ratios
 
 Custom FPS Control - Playback at your exact desired framerate
 
-# Enhanced Visual Experience
+# Visual Experience
 
 Live Frame Counter - Real-time display with custom starting frame numbers
 
