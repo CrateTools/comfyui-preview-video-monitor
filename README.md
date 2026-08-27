@@ -1,4 +1,4 @@
-# Preview Video Monitor
+# Preview Video Monitor V5.3.2
 
 Preview on multiple physical monitors for videos, image sequences, and images. Interactive on-screen controls, snapshots, and generation tracking
 
